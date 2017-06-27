@@ -1,6 +1,11 @@
-Django Rest Framework
-Simple example
-
-List of all News - {{url}}/api/news/
-Detail News - {{url}}/api/news/<pk>
-Update News - {{url}}/api/news/edit/<pk>
+##Django Rest Framework
+###Simple example
+*separate paragraph*
+List of all News
+```{{url}}/api/news/```
+ *separate paragraph*
+Detail News
+```{{url}}/api/news/<pk>```
+ *separate paragraph*
+Update News
+```{{url}}/api/news/edit/<pk>```
